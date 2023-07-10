@@ -6,4 +6,4 @@ For this CSS site, the web page is live at https://ankitd2002.github.io/IntroToC
 
 In the Media CSS_MediaQuery_CustomVariables.html code file, I will explore the concepts of CSS Media Queries and Custom Variables, two powerful tools for creating responsive and dynamic web designs.
 
-For these CSS site, the web site pages are live at https://ankitd2002.github.io/IntroToCSS/CSS_MediaQuery_CustomVariables.html
+For these CSS site, the web page is live at https://ankitd2002.github.io/IntroToCSS/CSS_MediaQuery_CustomVariables.html
